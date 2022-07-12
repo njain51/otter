@@ -16,6 +16,11 @@ print(list1)
 list1.pop()
 print(list1)
 
+# pop(i) -> removes  element at index i
+list1.pop(i)
+print(list1)
+
+
 
 
 
